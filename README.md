@@ -28,6 +28,6 @@
 </p>
 
 <a href="https://github.com/fida02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fida02&show_icons=true&theme=merko&count_private=true&include_all_commits=true" alt="fida02's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fida02&theme=merko&layout=compact" alt="fida02's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fida02&show_icons=true&theme=dracula&count_private=true" alt="fida02's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fida02&theme=dracula&layout=compact" alt="fida02's github top languages" />
 </a>
