@@ -18,5 +18,5 @@
 
 <a href="https://github.com/fida02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fida02&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Fida's GitHub stats" style="max-width:50% !important;float:left;" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fida02&theme=dracula&layout=compact" alt="Fida's github top languages" style="max-width:50%; !important" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fida02&theme=dracula&layout=compact" alt="Fida's github top languages" style="max-width:50% !important;" />
 </a>
