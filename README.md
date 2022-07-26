@@ -27,9 +27,9 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 
-<a href="https://github.com/fida02">
-  <img src="https://github-readme-stats.vercel.app/api?username=fida02&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Fida's GitHub stats" style="height: 180px;float: left;" />
+<a style="float: left;display: inline-block;width: 50%;" href="https://github.com/fida02">
+  <img src="https://github-readme-stats.vercel.app/api?username=fida02&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" alt="Fida's GitHub stats" style="height: 180px;" />
   </a>
-  <a href="https://github.com/fida02">
+  <a style="float: left;display: inline-block;width: 50%;" href="https://github.com/fida02">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fida02&theme=dracula&layout=compact" alt="Fida's github top languages" style="height: 180px;" />
 </a>
