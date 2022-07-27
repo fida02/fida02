@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋,</h1>
 <h3 align="center">A Full-Stack WordPress Developer & System Admin</h3>
 
-- 🔭 I'm working on [Radisson Digital Technologies Ltd](https://radissonbd.com/)
-
 - 👨‍💻 See my  [Repositories](https://github.com/fida02?tab=repositories) & [Gists](https://gist.github.com/fida02)
 
 - 📫 Visit my [Portfolio/Resume](https://fida.dev)
